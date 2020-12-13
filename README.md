@@ -12,7 +12,7 @@
 ![Exercise2](https://user-images.githubusercontent.com/61030799/102023107-7b1a4600-3d8b-11eb-8f41-a7e5967ec116.PNG)
 
 
-## Exercise 3 - Random variables
+## Exercise 3 - Random variables and Naive Bayes
 
 ![Exercise3](https://user-images.githubusercontent.com/61030799/102023142-ac931180-3d8b-11eb-87bb-c60b16b6718d.PNG)
 
