@@ -3,18 +3,17 @@
 
 ## Exercise 1
 
-![](https://photos.google.com/search/_tra_/photo/AF1QipPkoOQeeD0ullmJjiWscgzbnrdA4NeSLr39k5Nk)
+![Exercise1](https://user-images.githubusercontent.com/61030799/102023093-66d64900-3d8b-11eb-85f7-cc7a2fd67eb6.PNG)
 
 ## Exercise 2
 
-![](https://photos.google.com/search/_tra_/photo/AF1QipN7ByNN5Cw2DV3scm5QJ5YeVVDYFLaKFKIZMHIZ)
+![Exercise2](https://user-images.githubusercontent.com/61030799/102023107-7b1a4600-3d8b-11eb-8f41-a7e5967ec116.PNG)
 
 ## Exercise 3
 
-![](https://photos.google.com/search/_tra_/photo/AF1QipO3BS_jsF2Wb3CqdSbkKXjE7xL7dK2uqmALqrH-)
-
+![Exercise3](https://user-images.githubusercontent.com/61030799/102023142-ac931180-3d8b-11eb-87bb-c60b16b6718d.PNG)
 
 ## Exercise 4
 
-![](https://photos.google.com/search/_tra_/photo/AF1QipNHK0hGnJmhqCMa9HkxKg3N_BrDVIVvt--jb5FU)
+![Exercise4](https://user-images.githubusercontent.com/61030799/102023153-c5032c00-3d8b-11eb-89f9-978af0cdd87a.PNG)
 
