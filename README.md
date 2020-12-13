@@ -3,6 +3,8 @@
 
 ## Exercise 1
 
+<img src="https://user-images.githubusercontent.com/61030799/102023093-66d64900-3d8b-11eb-85f7-cc7a2fd67eb6.PNG" >
+
 ![Exercise1](https://user-images.githubusercontent.com/61030799/102023093-66d64900-3d8b-11eb-85f7-cc7a2fd67eb6.PNG)
 
 ## Exercise 2
