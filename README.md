@@ -7,7 +7,7 @@
 ![Exercise1](https://user-images.githubusercontent.com/61030799/102023093-66d64900-3d8b-11eb-85f7-cc7a2fd67eb6.PNG)
 
 
-## Exercise 2 - Classification
+## Exercise 2 - Tree classification and information gain
 
 ![Exercise2](https://user-images.githubusercontent.com/61030799/102023107-7b1a4600-3d8b-11eb-8f41-a7e5967ec116.PNG)
 
